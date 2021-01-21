@@ -1,4 +1,4 @@
-TOKEN_TELEGRAM_BOT = 777  # enter your telegram bot token here
+TOKEN_TELEGRAM_BOT = '1578899049:AAEoIP2tUUsiidsZNRINoj9n1tE19u3xfto' # enter your telegram bot token here
 
 URL_PROMO_PHOTO = 'https://pp.userapi.com/c851528/v851528654/134bdc/xLZm5q7yKhI.jpg'
 
